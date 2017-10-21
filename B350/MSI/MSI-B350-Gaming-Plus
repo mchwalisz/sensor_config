@@ -1,0 +1,10 @@
+chip "nct6795-isa-0a20"
+# Found NCT6795D or compatible chip at 0x4e:0xa20
+
+    # Fans
+    label fan1 "Pump Fan"
+    label fan2 "CPU Fan"
+    label fan3 "Chassis Fan 1"
+    label fan4 "Chassis Fan 2"
+    label fan5 "Chassis Fan 3"
+    label fan6 "Chassis Fan 4"
